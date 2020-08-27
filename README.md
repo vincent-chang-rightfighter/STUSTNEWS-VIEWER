@@ -83,10 +83,6 @@ https://i.imgur.com/fKKvwg7.gif
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>V 0.0.1-JS EXE ( 44.4 MB )</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
 <p><a href="https://github.com/vincent-chang-rightfighter/STUSTNEWS-VIEWER/releases">https://github.com/vincent-chang-rightfighter/STUSTNEWS-VIEWER/releases</a></p>
 <!-- /wp:paragraph -->
 
