@@ -11,7 +11,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"very-dark-gray"} -->
-![](https://i.imgur.com/50LfEMA.png)
+![image](https://i.imgur.com/50LfEMA.png)
 
 <!-- /wp:paragraph -->
 
@@ -60,7 +60,7 @@
 <p>( 寫死的, 基於 Chromium 核心的 Edge 速度不差 , Windows 10 內建的  )</p>
 
 
-![](https://i.imgur.com/fKKvwg7.gif)
+![image](https://i.imgur.com/fKKvwg7.gif)
 
 
 <p></p>
