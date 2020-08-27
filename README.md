@@ -1,4 +1,7 @@
 # 南台消息查詢程式 JS 
+
+[![hackmd-github-sync-badge](https://hackmd.io/kIFZVqyBRSqDDrVbS1Bq4A/badge)](https://hackmd.io/kIFZVqyBRSqDDrVbS1Bq4A)
+
 <!-- wp:paragraph {"fontSize":"medium"} -->
 <p class="has-medium-font-size">你是那個很懶得開瀏覽器看南台最新消息嗎 ?</p>
 <!-- /wp:paragraph -->
