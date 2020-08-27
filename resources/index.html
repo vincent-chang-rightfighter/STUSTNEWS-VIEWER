@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<style>
+    body {
+        font-family: "Arial", "Microsoft YaHei", "SimHei", "NSimSun", monospace;
+        background-color: rgb(0, 0, 0);
+    }
+
+    table {
+        width: 100%;
+    }
+
+    table,
+    th,
+    td {
+
+        font-family: "Arial", "Microsoft YaHei", "SimHei", "NSimSun", monospace;
+        color: white;
+    }
+
+    tr:hover {
+        background-color: rgb(3, 172, 240);
+    }
+
+    /* unvisited link*/
+    a:link {
+        color: white;
+        text-decoration: none;
+    }
+
+    /* visited link*/
+    a:visited {
+        color: gray;
+    }
+
+    /* mouse over link */
+    a:hover {
+        color: rgb(0, 0, 107);
+    }
+
+    /* selected link */
+    a:active {
+        color: blue;
+    }
+
+    button {
+        position: absolute;
+        top: 20px;
+        right: 20px
+    }
+</style>
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="Shortcut Icon" type="image/x-icon" href="stustnews.ico" />
+    <title>南台消息查詢程式</title>
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline';" />
+</head>
+
+<body>
+    <h3 style="color:rgb(255, 255, 255);">點擊對應標題欄即可查看詳情</h3>
+    <button type="button" style="width:120px;height:30px;border:2px blue none"
+        onclick="alert('V 0.0.1-jS\n作者:min\npowered by nodejs\n')">關於程式</button>
+    <table id="myTable"></table>
+    <script>
+        require('./render.js')
+    </script>
+</body>
+<!--<p id="demo"></p>-->
+
+</html>
