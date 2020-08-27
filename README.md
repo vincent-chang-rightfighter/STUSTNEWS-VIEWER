@@ -95,6 +95,7 @@
   color: red;
 }
 </style>
+
 <!-- wp:paragraph {"textColor":"vivid-red"} -->
 <p> <span class="red">
 聲明 : 本程式非南台科技大學出品 , 若收到相關通知會下架處理
