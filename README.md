@@ -60,7 +60,7 @@
 <p>( 寫死的, 基於 Chromium 核心的 Edge 速度不差 , Windows 10 內建的  )</p>
 
 
-![image](https://i.imgur.com/fKKvwg7.png)
+https://i.imgur.com/fKKvwg7.gif
 
 
 <p></p>
