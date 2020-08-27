@@ -90,16 +90,13 @@
 <p><a href="https://github.com/vincent-chang-rightfighter/STUSTNEWS-VIEWER/releases">https://github.com/vincent-chang-rightfighter/STUSTNEWS-VIEWER/releases</a></p>
 <!-- /wp:paragraph -->
 
-<style>
-.red {
-  color: red;
-}
-</style>
+
 
 <!-- wp:paragraph {"textColor":"vivid-red"} -->
-<p> <span class="red">
+<p>
+🔴
 聲明 : 本程式非南台科技大學出品 , 若收到相關通知會下架處理
-</span></p>
+🔴</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
