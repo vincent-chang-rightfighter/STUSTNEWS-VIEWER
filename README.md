@@ -54,15 +54,15 @@
 <p>程式提供功能 多頁顯示 ( 第1頁至第5頁 )  </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
+
 <p>點擊對應標題欄</p>
 <p>會由 Microsoft Edge 開啟詳情網頁 </p>
-<p>( 故意寫死的, 基於 Chromium 核心的 Edge 速度不差 , Windows 10 內建的  )</p>
-<!-- /wp:paragraph -->
+<p>( 寫死的, 基於 Chromium 核心的 Edge 速度不差 , Windows 10 內建的  )</p>
 
 
 ![](https://i.imgur.com/fKKvwg7.gif)
-<!-- wp:paragraph -->
+
+
 <p></p>
 <!-- /wp:paragraph -->
 
@@ -90,11 +90,15 @@
 <p><a href="https://github.com/vincent-chang-rightfighter/STUSTNEWS-VIEWER/releases">https://github.com/vincent-chang-rightfighter/STUSTNEWS-VIEWER/releases</a></p>
 <!-- /wp:paragraph -->
 
-
+<style>
+.red {
+  color: red;
+}
+</style>
 <!-- wp:paragraph {"textColor":"vivid-red"} -->
-<p> <font color="#f00">
+<p> <span class="red">
 聲明 : 本程式非南台科技大學出品 , 若收到相關通知會下架處理
-</font></p>
+</span></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
