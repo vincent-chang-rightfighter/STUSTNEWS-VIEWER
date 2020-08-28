@@ -1,4 +1,4 @@
-# 南台消息查詢程式 JS 
+# 南台消息查詢程式 STUSTNEWS VIEWER
 
 [![hackmd-github-sync-badge](https://hackmd.io/kIFZVqyBRSqDDrVbS1Bq4A/badge)](https://hackmd.io/kIFZVqyBRSqDDrVbS1Bq4A)
 
@@ -59,8 +59,8 @@
 <p>會由 Microsoft Edge 開啟詳情網頁 </p>
 <p>( 寫死的, 基於 Chromium 核心的 Edge 速度不差 , Windows 10 內建的  )</p>
 
+<p>效果如圖<a href="https://i.imgur.com/fKKvwg7.gif">GIF</a>圖</p>
 
-https://i.imgur.com/fKKvwg7.gif
 
 
 <p></p>
