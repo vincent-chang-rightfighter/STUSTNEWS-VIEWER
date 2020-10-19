@@ -1,4 +1,4 @@
-# 南台消息查詢程式 STUSTNEWS VIEWER
+# 南台消息查詢程式 STUSTNEWS VIEWER (Nodejs)
 
 [![hackmd-github-sync-badge](https://hackmd.io/kIFZVqyBRSqDDrVbS1Bq4A/badge)](https://hackmd.io/kIFZVqyBRSqDDrVbS1Bq4A)
 
